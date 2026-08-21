@@ -98,13 +98,13 @@
 使用 Skills CLI 安装：
 
 ```bash
-npx skills add zephyrwang6/heart-sticker-imagegen-skill
+npx skills add SpaceZephyr/heart-sticker-imagegen-skill
 ```
 
 或手动复制：
 
 ```bash
-git clone https://github.com/zephyrwang6/heart-sticker-imagegen-skill.git
+git clone https://github.com/SpaceZephyr/heart-sticker-imagegen-skill.git
 cp -R heart-sticker-imagegen-skill/heart-sticker-imagegen ~/.codex/skills/
 ```
 
