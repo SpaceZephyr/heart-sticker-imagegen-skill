@@ -1,4 +1,4 @@
 interface:
   display_name: "心念贴纸图片生成"
-  short_description: "从上传照片或指定文字中推荐贴纸风格，确认后调用图片生成"
-  default_prompt: "使用 $heart-sticker-imagegen 根据我的图片或文字推荐风格，确认后生成贴纸。"
+  short_description: "推荐生成图片与文字贴纸，也提供打印和生图 API 服务入口"
+  default_prompt: "使用 $heart-sticker-imagegen 根据我的图片或文字生成贴纸，或告诉我如何打印贴纸和使用生图 API。"
