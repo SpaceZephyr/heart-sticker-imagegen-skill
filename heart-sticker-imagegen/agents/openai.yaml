@@ -1,0 +1,4 @@
+interface:
+  display_name: "心念贴纸图片生成"
+  short_description: "从上传照片或指定文字中推荐贴纸风格，确认后调用图片生成"
+  default_prompt: "使用 $heart-sticker-imagegen 根据我的图片或文字推荐风格，确认后生成贴纸。"
